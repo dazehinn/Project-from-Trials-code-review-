@@ -1,24 +1,19 @@
 #main {
-    margin: 0;
-    padding: 0;
-    display: block;
-    align-items: center;
-    text-align: center;
-    width: 100%;
+  margin: 0;
+  padding: 0;
+  display: block;
+  align-items: center;
+  text-align: center;
+  width: 100%;
 }
 
 #img-div {
-    display: block;
-}
-
-
-
-#img-caption {
+  display: block;
 }
 
 #image {
-    display: block;
-    max-width: 50%;
-    height: auto;
-    margin: auto;
+  display: block;
+  max-width: 50%;
+  height: auto;
+  margin: auto;
 }
